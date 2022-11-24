@@ -9,3 +9,12 @@ Hur man skapar en **rudimätar** färdighet i att använda *sin dator*.
 > Hur man skapar
 >
 > Mulityplicera Blockquote.
+
+
+
+Hur skapar en lista
+
+1. Första sak
+2. Andra sak
+3. Tredja sak
+4. Fjärde sak
