@@ -8,3 +8,10 @@ Hur man skapa en **rudimentär** färdighrt i att använda sin *dator*.
 > Skapa 
 >
 >Multiplicera Blockquote.
+
+
+Skapa en lista
+1. Första sak
+2. Andra sak
+3. Tredje sak
+4. Fjärde sak
