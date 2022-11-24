@@ -3,3 +3,8 @@
 Hur man skapa en **rudimentär** färdighrt i att använda sin *dator*.
 
 > Skapa en Blockquote.
+
+
+> Skapa 
+>
+>Multiplicera Blockquote.
